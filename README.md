@@ -22,12 +22,11 @@ Removing an extra line in the file.
 These files are not working and i am unable to resolve it.
 
 Git Log Screenshot
-![Git Log Output](./ss/Screenshot%202025-05-05%20150413.png) <!-- Save your screenshot inside a /screenshots folder -->
-![Git log output](<Screenshot 2025-05-05 150413-1.png>)
+![Git Log Output](./ss/gitlog3.png) 
+![Git log output](<git_log.png>)
 
-![alt text](<./Screenshot 2025-05-05 150413.png>)
-## Git Diff
+## Git Diff    
 Used `git diff` to compare changes between commits. Examples:
 ```bash
 git diff HEAD~1 HEAD
-![Comparing the changes made in the folder.txt file](image.png)
+![Comparing the changes made in the folder.txt file](<editcompm.png>)
