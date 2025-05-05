@@ -31,3 +31,7 @@ Used `git diff` to compare changes between commits. Examples:
 ```bash
 git diff HEAD~1 HEAD
 ![Comparing the changes made in the folder.txt file](image.png)
+--------------------------------------------------------------------------------
+                      Assignment 2
+Screenshort of succcessful pull request and merge
+![image](https://github.com/user-attachments/assets/dcdcaf9e-336f-434e-a4c0-0461d316de15)
