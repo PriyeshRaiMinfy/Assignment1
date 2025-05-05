@@ -21,12 +21,11 @@ Removing an extra line in the file.
 
 These files are not working and i am unable to resolve it.
 
-Git Log Screenshot
+## Git Log Screenshot
 ![Git Log Output](./ss/gitlog3.png) 
 ![Git log output](<git_log.png>)
 
 ## Git Diff    
-Used `git diff` to compare changes between commits. Examples:
-```bash
+Used git command to compare changes between commits. Examples:
 git diff HEAD~1 HEAD
-![Comparing the changes made in the folder.txt file](<editcompm.png>)
+![Git log Output](<editcomp.png>)
