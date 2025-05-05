@@ -29,3 +29,21 @@ These files are not working and i am unable to resolve it.
 Used git command to compare changes between commits. Examples:
 git diff HEAD~1 HEAD
 ![Git log Output](<editcomp.png>)
+
+## Assignment 2
+GitHub Basics & Collaboration
+
+Objective:
+Learn how to use GitHub for collaboration, including pushing code, branching, and creating pull requests.
+
+Tasks Completed:
+1. Created README.md on GitHub.
+2. Pulled changes to my local repo using git pull origin main.
+3. Created a new branch 'feature/update-readme' for updates.
+4. Updated README.md with details of Assignment 1 and pushed changes.
+5. Created a pull request from 'feature/update-readme' to 'main'.
+6. Merged the pull request into the 'main' branch on GitHub.
+
+
+![Git Log Output](<mergePull1.png>) 
+![Git Log Output](<mergePull2.png>) 
